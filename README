@@ -1,33 +1,4 @@
-You should replace the content of this file and describe your dataset.
+Coordinated Computations for Naturalistic Memory Encoding and Retrieval in Hippocampal Neural Subspaces
+Dasom Kwon, Jungwoo Kim1, Seng Bum Michael Yoo, Won Mok Shim
 
----
-
-BIDS Specification: https://bids-specification.readthedocs.io/en/stable/
-
----
-
-BIDS directory overview
-https://bids-specification.readthedocs.io/en/stable/02-common-principles.html#single-session-example
-
----
-
-participants.tsv and participants.json
-https://bids-specification.readthedocs.io/en/stable/02-common-principles.html#tabular-files
-https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.html#participants-file
-
----
-
-dataset_description.json
-https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.html#dataset_description
-
----
-
-README
-https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.html#readme
-
----
-
-CHANGES
-https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.html#changes
-
----
+Raw functional MRI data of movie viewing and narrative recall is available here. The associated behavioral data and main analysis codes are published in Github "https://github.com/somvid/Hippocampal-subspaces". For additional inquiries, please contact Dasom Kwon (ektha1810@gmail.com).
