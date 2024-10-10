@@ -130,5 +130,5 @@
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC7.3.0",
     "Dcm2bidsVersion": "2.1.6",
-    "TaskName": "qna"
+    "TaskName": "recall"
 }
